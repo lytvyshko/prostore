@@ -4,7 +4,7 @@ export const metadata = {
   title: 'Home',
 };
 
-const Component = () => {
+const Component = async () => {
   return <Button>Hello</Button>;
 };
 
