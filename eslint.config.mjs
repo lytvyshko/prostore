@@ -16,6 +16,9 @@ const eslintConfig = [
     'plugin:prettier/recommended'
   ),
   {
+    ignores: ['.components/ui'],
+  },
+  {
     rules: {
       'prettier/prettier': [
         'error',
