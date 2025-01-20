@@ -1,5 +1,5 @@
-import ProductCard from './product-card';
-import { Product } from '@/types';
+import ProductCard from "./product-card";
+import { Product } from "@/types";
 
 interface Props {
   data: Product[];

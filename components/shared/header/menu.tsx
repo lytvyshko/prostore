@@ -1,14 +1,14 @@
-import ModeToggle from './mode-toggle';
-import { Button } from '@/components/ui/button';
-import Link from 'next/link';
-import { EllipsisVertical, ShoppingCart, UserIcon } from 'lucide-react';
+import ModeToggle from "./mode-toggle";
+import { Button } from "@/components/ui/button";
+import Link from "next/link";
+import { EllipsisVertical, ShoppingCart, UserIcon } from "lucide-react";
 import {
   Sheet,
   SheetContent,
   SheetDescription,
   SheetTitle,
   SheetTrigger,
-} from '@/components/ui/sheet';
+} from "@/components/ui/sheet";
 
 const Menu = () => {
   return (

@@ -1,7 +1,7 @@
-import Link from 'next/link';
-import Image from 'next/image';
-import { APP_NAME } from '@/lib/constants';
-import Menu from './menu';
+import Link from "next/link";
+import Image from "next/image";
+import { APP_NAME } from "@/lib/constants";
+import Menu from "./menu";
 
 const Header = () => {
   return (
