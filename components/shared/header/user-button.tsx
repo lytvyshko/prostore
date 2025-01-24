@@ -9,7 +9,6 @@ import {
   DropdownMenuLabel,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { useSession } from "next-auth/react";
 import { UserIcon } from "lucide-react";
 
 const UserButton = async () => {
