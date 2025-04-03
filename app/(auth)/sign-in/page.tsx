@@ -32,7 +32,7 @@ const SignInPage = async (props: Props) => {
   return (
     <div className="w-full max-w-md mx-auto">
       <Card>
-        <CardHeader className="space-y-4">
+        <CardHeader className="space-y-4 width-[350px]">
           <Link href="/" className="flex-center">
             <Image
               src="/images/logo.svg"
